@@ -13,7 +13,7 @@ const SAMPLE_DATA = {
     year: 2026,
     month: 2,
     items: [
-      { id: crypto.randomUUID(), no: 1, title: "SaaS '대학살'", subtitle: "SAP -16%, Salesforce -30%, 시총 1조달러 증발", impact: "소프트웨어 주가 하루 1조 달러↓", applicability: "SAP 재계약 협상력 우위", future: "AI 에이전트가 SaaS 대체", highlight: false },
+      { id: crypto.randomUUID(), no: 1, title: "SaaS '대학살'", subtitle: "SAP -16%, Salesforce -30%, 시총 1조 달러 증발", impact: "소프트웨어 주가 하루 1조 달러↓", applicability: "SAP 재계약 협상력 우위", future: "AI 에이전트가 SaaS 대체", highlight: false },
       { id: crypto.randomUUID(), no: 2, title: "AI 에이전트 1개 = 직원 10~15명 예상", subtitle: "Fortune 50. Salesforce 라이선스 60% 삭감", impact: "좌석 기반 SaaS 모델 붕괴", applicability: "MD·CS·구매 업무 에이전트화", future: "인당생산성 2~3배 향상", highlight: false },
       { id: crypto.randomUUID(), no: 3, title: "DeepSeek V3.2", subtitle: "GPT-5 동급 성능. 가격 1/140 ($0.04 vs $6.00)", impact: "AI 비용 94% 절감 현실화", applicability: "AI API 비용 대폭 절감 가능", future: "AI 활용비용 사실상 무료", highlight: false },
       { id: crypto.randomUUID(), no: 4, title: "AI 에이전트 거래액 $263B 예측", subtitle: "소비자 33% 'AI에게 구매 위임'", impact: "AI 쇼핑 트래픽 전년비 +1,200%", applicability: "패션·리테일 AEO 전환 시급", future: "브랜드 충성도→AI 추천 기반", highlight: false },
